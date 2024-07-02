@@ -1,9 +1,10 @@
+/*
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 40px;
   pointer-events: none;
 }
 
@@ -35,4 +36,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+*/
+
+.App {
+background-color: #dfdfdf;
+}
+
+.card {
+margin-bottom: 10px;
 }
